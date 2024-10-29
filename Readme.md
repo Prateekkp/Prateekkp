@@ -2,7 +2,7 @@
 
 ![Profile Banner](visuals/Banner.png)
 
-I'm an aspiring data scientist and software engineer passionate about making open-source contributions, developing technology to empower others, and building a supportive tech community. My skills include Python, SQL, data visualization, and I'm currently diving deeper into machine learning and AI. I enjoy exploring frameworks and libraries in data science and web development, such as ReactJS and Django. 
+I'm an aspiring data scientist and software engineer passionate about making open-source contributions, developing technology to empower others, and building a supportive tech community. My skills include Python, SQL, data visualization, and I'm currently diving deeper into machine learning and AI. I enjoy exploring frameworks and libraries in data science and web development, such as Flask and Django. 
 
 ## 🛠 Skills
 - **Languages**: Python 🐍, SQL 💾, R 📊
