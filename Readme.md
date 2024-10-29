@@ -1,24 +1,31 @@
-# 💫About Me :
-## 👋 Hello! I’m Prateek Kumar Prasad
+# Hi, I'm Prateek 👋🏾 👨‍💻
 
-- 🎓 **Data Science Student** | Currently pursuing my B.Tech with a specialization in Data Science.
-- 💻 **Tech Skills**: Experienced in Python, SQL, R, Data Visualization (Tableau, Matplotlib), and Machine Learning fundamentals.
-- 🚀 **Learning Journey**: I’m on a mission to uncover insights from data and transform them into impactful decisions. I have hands-on experience with projects involving data cleaning, visualization, and predictive modeling.
-- 🎯 **Current Focus**: Deepening my knowledge in machine learning algorithms, working on real-world projects, and exploring AI applications in healthcare and urban governance.
-- 🌐 **Future Goals**: Aspire to contribute to meaningful projects in data analytics and build scalable machine learning solutions.
+![Profile Banner](visuals/Banner.png)
 
-📫 **Reach Me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/prateekkp/) or check out my portfolio at [Your Website](https://prateekkp.github.io/).
+I'm an aspiring data scientist and software engineer passionate about making open-source contributions, developing technology to empower others, and building a supportive tech community. My skills include Python, SQL, data visualization, and I'm currently diving deeper into machine learning and AI. I enjoy exploring frameworks and libraries in data science and web development, such as ReactJS and Django. 
+
+## 🛠 Skills
+- **Languages**: Python 🐍, SQL 💾, R 📊
+- **Data Science**: Pandas 🐼, NumPy 🔢, Scikit-Learn 🤖
+- **Data Visualization**: Tableau 📊, Matplotlib 📉, Seaborn 📈
+- **Web Development**: Flask 🌐
+- **Database Management**: MySQL 🗃️
+- **Tools**: Git 🌳, VS Code 📝, Jupyter Notebook 📔
+
+## 📂 Projects
+Here are a few projects I've worked on that showcase my data science and development skills:
+
+- **British Airways Review Analysis ✈️**: Analyzed customer reviews using NLP techniques to identify satisfaction trends, leading to actionable recommendations for the airline.
+- **Diwali Sales Analysis 🎉**: Explored sales data using Python and visualized results in Tableau to understand consumer behavior during the Diwali season, providing insights that helped in future marketing campaigns.
+- **King County House Sales Dashboard 🏠**: Developed a Tableau dashboard visualizing house sales data, including metrics like daily average prices, distribution by property features, and a heatmap for property conditions.
+- **Car Parking Management System 🚗**: Built a Python-based application using YOLO for object detection to manage college parking spaces, integrated with MongoDB for efficient data storage and retrieval.
 
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prateeek_kp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prateekkp) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/prateek_k_p) 
+## 🌎 Find Me Around the Web
+<a href="https://www.linkedin.com/in/prateekkp/">
+    <img align="right" width="150" height="150" src="https://octodex.github.com/images/manufacturetocat.png" alt="Manufacturetocat Octodex">
+</a>
 
-# 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=prateekkp&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prateekkp&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkp&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=prateekkp&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💻 Sharing my journey and projects on [GitHub](https://github.com/prateekkp) 
+- 💼 Connecting and sharing updates on [LinkedIn](https://www.linkedin.com/in/prateekkp/)
+- 🌐 Visit my [Portfolio Website](https://prateekkp.github.io/) for more details on my work!
