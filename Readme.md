@@ -7,7 +7,7 @@
 - 🎯 **Current Focus**: Deepening my knowledge in machine learning algorithms, working on real-world projects, and exploring AI applications in healthcare and urban governance.
 - 🌐 **Future Goals**: Aspire to contribute to meaningful projects in data analytics and build scalable machine learning solutions.
 
-📫 **Reach Me**: Connect with me on [LinkedIn](www.linkedin.com/in/prateekkp) or check out my portfolio at [Your Website](https://prateekkp.github.io/).
+📫 **Reach Me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/prateekkp/) or check out my portfolio at [Your Website](https://prateekkp.github.io/).
 
 
 ## 🌐Socials
