@@ -23,7 +23,7 @@ I am constantly learning and applying cutting-edge technologies to solve real-wo
 
 ## 📂 **Projects**  
 
-### 🔥 [StrokeShield: AI-Powered Stroke Risk Prediction](https://stroke-shield.streamlit.app/)  
+### 🔥 [StrokeShield: AI-Powered Stroke Risk Prediction](https://github.com/Prateekkp/StrokeShield.git)  
 **Technologies:** Streamlit, Scikit-Learn, Pandas, Python  
 Developed a **machine learning model** to predict stroke risk based on key medical attributes. The app is deployed on **Streamlit** for user-friendly interaction and real-time predictions.  
 
