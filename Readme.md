@@ -9,6 +9,7 @@ I am a **Computer Science Engineering student specializing in Data Science**, ac
 I am constantly learning and applying cutting-edge technologies to solve real-world problems. Currently, I am seeking **internships, research collaborations, and full-time opportunities** where I can leverage my skills to drive business impact.  
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prateekkp)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠 **Technical Skills & Expertise**  
 
