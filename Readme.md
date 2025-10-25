@@ -48,7 +48,7 @@ prateek = {
 
 ---
 
-## 💼 **Looking for Opportunities**  
+### Looking for Opportunities  
 
 I am **actively seeking internships, research roles, and full-time positions** in:  
 ✅ **Data Science & Analytics**  
