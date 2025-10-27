@@ -64,7 +64,7 @@ If your team is hiring or you have an exciting project, feel free to reach out!
 <p>
   <a href="https://www.linkedin.com/in/prateekkp/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://github.com/Prateekkp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="(https://www.datascienceportfol.io/prateekkp" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23808080.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.datascienceportfol.io/prateekkp" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23808080.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a> 
   <a href="https://kaggle.com/dockumar" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"/></a>
   
