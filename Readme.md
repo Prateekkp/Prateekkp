@@ -31,22 +31,24 @@ prateek = {
 ---
 
 ### Projects
-<a href="https://github.com/Prateekkp/esol-solubility-predictor"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prateekkp&repo=esol-solubility-predictor&theme=buefy" /> 
-</a> 
-<a href="https://github.com/Prateekkp/customer-conversion-analytics"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prateekkp&repo=customer-conversion-analytics&theme=buefy" /> 
-</a> 
-<a href="https://github.com/Prateekkp/nifty50-market-analysis"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prateekkp&repo=nifty50-market-analysis&theme=buefy" /> 
+
+<a href="https://github.com/Prateekkp/esol-solubility-predictor">
+  <img src="https://opengraph.githubassets.com/1/Prateekkp/esol-solubility-predictor" width="400">
 </a>
-<a href="https://github.com/Prateekkp/Smart-Medical-Report-Analyzer"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prateekkp&repo=Smart-Medical-Report-Analyzer&theme=buefy" /> 
-</a> 
 
-<br /><br />
+<a href="https://github.com/Prateekkp/customer-conversion-analytics">
+  <img src="https://opengraph.githubassets.com/2/Prateekkp/customer-conversion-analytics" width="400">
+</a>
 
----
+<a href="https://github.com/Prateekkp/nifty50-market-analysis">
+  <img src="https://opengraph.githubassets.com/3/Prateekkp/nifty50-market-analysis" width="400">
+</a>
+
+<a href="https://github.com/Prateekkp/Smart-Medical-Report-Analyzer">
+  <img src="https://opengraph.githubassets.com/4/Prateekkp/Smart-Medical-Report-Analyzer" width="400">
+</a>
+
+
 
 ### Looking for Opportunities  
 
