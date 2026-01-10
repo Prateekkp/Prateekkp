@@ -32,22 +32,13 @@ prateek = {
 
 ### Projects
 
-<a href="https://github.com/Prateekkp/SnapBase">
-  <img src="https://opengraph.githubassets.com/1/Prateekkp/SnapBase" width="400"/>
-</a>
+**1. N-AIRS: Automated Market Intelligence & Rule-Based Decision Engine** — [Go to repo](https://github.com/Prateekkp/N-AIRS)  
+*(Automated financial data pipeline with rule-based trade signals and a reporting layer designed for Power BI dashboards.)*
 
-<a href="https://github.com/Prateekkp/esol-solubility-predictor">
-  <img src="https://opengraph.githubassets.com/2/Prateekkp/esol-solubility-predictor" width="400"/>
-</a>
 
-<a href="https://github.com/Prateekkp/customer-conversion-analytics">
-  <img src="https://opengraph.githubassets.com/3/Prateekkp/customer-conversion-analytics" width="400"/>
-</a>
 
-<a href="https://github.com/Prateekkp/nifty50-market-analysis">
-  <img src="https://opengraph.githubassets.com/4/Prateekkp/nifty50-market-analysis" width="400"/>
-</a>
-
+**2. SnapBase** — [Go to repo](https://github.com/Prateekkp/SnapBase)  
+*(A production-grade, terminal-based AI SQL assistant using NVIDIA LLM, with schema awareness, safety guardrails, and persistent configuration.)*
 
 
 
