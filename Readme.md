@@ -32,7 +32,7 @@ prateek = {
 
 ### Projects
 
-**1. Transaction Risk Decisioning Platform** — [Go to repo](https://github.com/Prateekkp/transaction-risk-system-v2)  
+**1. Transaction Risk System** — [Go to repo](https://github.com/Prateekkp/transaction-risk-system-v2)  
 *(Transaction risk assessment system with real-time ML inference, rule-based decisioning, API service, UI client, and CI/CD pipeline.)*
 
 **2. N-AIRS: Automated Market Intelligence & Rule-Based Decision Engine** — [Go to repo](https://github.com/Prateekkp/N-AIRS)  
