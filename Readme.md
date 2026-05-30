@@ -33,10 +33,10 @@ prateek = {
 ### Projects
 
 **1. Tamil Nadu Election Analysis** — [Go to repo](https://github.com/Prateekkp/tn-election-analysis-2026.git)  
-*(Dynamic Tamil Nadu Election Storytelling (2021–2026) using Python & AI Dashboards.)*
+*(AI-powered election intelligence platform for analyzing voter behavior, constituency dynamics, and electoral shifts through interactive data storytelling.)*
 
 **2. GridCast** — [Go to repo](https://github.com/Team-NAVGATI/GridCast.git)  
-*(Electricity Demand Forecasting (24–72h) using NRLDC Data & Deep Learning.)*
+*(Deep learning-based energy forecasting platform delivering multi-horizon electricity demand predictions for smart grid operations and decision support.)*
 
 **3. N-AIRS: Automated Market Intelligence & Rule-Based Decision Engine** — [Go to repo](https://github.com/Prateekkp/N-AIRS)  
 *(Automated financial data pipeline with rule-based trade signals and a reporting layer designed for Power BI dashboards.)*
