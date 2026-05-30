@@ -10,35 +10,38 @@ I'm Data Scientist and Analyst from New Delhi, **India**.
 ```
 prateek = {
     "pronouns": "he/him",
-    "languages": ["Python", "R", "SQL", "Java"],
+    "languages": ["Python", "SQL", "Java"],
     "tools": [
-        "Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn",
-        "Power BI", "Tableau", "Streamlit", "Flask", "Git"
+        "Pandas", "NumPy", "Scikit-Learn",
+        "Power BI", "Tableau",
+        "Streamlit", "Flask", "Git"
     ],
-    "databases": [
-        "MySQL", "PostgreSQL"
-    ],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB"],
     "expertise": [
-        "Data Cleaning", "Data Analysis", "Machine Learning",
-        "Visualization", "Predictive Modeling"
+        "Data Analysis", "Data Visualization",
+        "Machine Learning", "Predictive Modeling"
     ],
-    "tech_communities": {
-        "contributor": "Kaggle"
-    },
-    "challenge": "I am doing a #100DaysOfCode challenge focused on Python, ML, and Data Visualization"
+    "projects": [
+        "GridCast", "N-AIRS",
+        "TN Election Analysis", "SnapBase"
+    ],
+    "career_goal": "Aspiring Data Analyst & Data Scientist"
 }
 ```
 ---
 
 ### Projects
 
-**1. Transaction Risk System** — [Go to repo](https://github.com/Prateekkp/transaction-risk-system-v2)  
-*(Transaction risk assessment system with real-time ML inference, rule-based decisioning, API service, UI client, and CI/CD pipeline.)*
+**1. Tamil Nadu Election Analysis** — [Go to repo](https://github.com/Prateekkp/transaction-risk-system-v2)  
+*(Dynamic Tamil Nadu Election Storytelling (2021–2026) using Python & AI Dashboards.)*
 
-**2. N-AIRS: Automated Market Intelligence & Rule-Based Decision Engine** — [Go to repo](https://github.com/Prateekkp/N-AIRS)  
+**2. GridCast** — [Go to repo](https://github.com/Team-NAVGATI/GridCast.git)  
+*(Electricity Demand Forecasting (24–72h) using NRLDC Data & Deep Learning.)*
+
+**3. N-AIRS: Automated Market Intelligence & Rule-Based Decision Engine** — [Go to repo](https://github.com/Prateekkp/N-AIRS)  
 *(Automated financial data pipeline with rule-based trade signals and a reporting layer designed for Power BI dashboards.)*
 
-**3. SnapBase** — [Go to repo](https://github.com/Prateekkp/SnapBase)  
+**4. SnapBase** — [Go to repo](https://github.com/Prateekkp/SnapBase)  
 *(A production-grade, terminal-based AI SQL assistant using NVIDIA LLM, with schema awareness, safety guardrails, and persistent configuration.)*
 
 ---
@@ -59,7 +62,7 @@ If your team is hiring or you have an exciting project, feel free to reach out!
 <p>
   <a href="https://www.linkedin.com/in/prateekkp/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://github.com/Prateekkp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://kaggle.com/dockumar" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"/></a>
+  <!-- <a href="https://kaggle.com/dockumar" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"/></a> -->
   
 ---
 
