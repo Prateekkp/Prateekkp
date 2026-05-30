@@ -32,7 +32,7 @@ prateek = {
 
 ### Projects
 
-**1. Tamil Nadu Election Analysis** — [Go to repo](https://github.com/Prateekkp/transaction-risk-system-v2)  
+**1. Tamil Nadu Election Analysis** — [Go to repo](https://github.com/Prateekkp/tn-election-analysis-2026.git)  
 *(Dynamic Tamil Nadu Election Storytelling (2021–2026) using Python & AI Dashboards.)*
 
 **2. GridCast** — [Go to repo](https://github.com/Team-NAVGATI/GridCast.git)  
